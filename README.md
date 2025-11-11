@@ -11,7 +11,7 @@ Una piccola applicazione in **Python** per **gestire le attività (task)** in mo
 
 ## Tecnologie e requisiti
 
-- Python 3.x  
+- Python 3.13  
 - Dipendenze elencate in `pyproject.toml`  
 
 
@@ -22,4 +22,5 @@ Una piccola applicazione in **Python** per **gestire le attività (task)** in mo
  cd Task-Manager
  poetry install
 ```
+
 
